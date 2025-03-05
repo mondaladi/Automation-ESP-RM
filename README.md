@@ -1,4 +1,4 @@
-# 🚀 Smart Garage Lights & Water Pump Automation System (ESP Rainmaker)
+# Smart Garage Lights & Water Pump Automation System (ESP Rainmaker)
 
 ---
 
